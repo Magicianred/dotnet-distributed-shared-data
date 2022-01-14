@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+/Magicianred.RegistryArea/.vs/Magicianred.RegistryArea/v16
+/Magicianred.RegistryArea/Magicianred.RegistryArea.BL/bin/Debug/netstandard2.0
+/Magicianred.RegistryArea/Magicianred.RegistryArea.BL/obj
+/Magicianred.RegistryArea/Magicianred.RegistryArea.Domain/bin/Debug/netstandard2.0
+/Magicianred.RegistryArea/Magicianred.RegistryArea.Domain/obj
+/Magicianred.RegistryArea/Magicianred.RegistryArea.BL.Tests.Unit/bin/Debug/netstandard2.0
+/Magicianred.RegistryArea/Magicianred.RegistryArea.BL.Tests.Unit/obj
